@@ -1,0 +1,30 @@
+[
+ {
+  "kind" : "module",
+  "file" : "main.d",
+  "members" : [
+   {
+    "name" : "std.stdio",
+    "kind" : "import",
+    "line" : 1,
+    "char" : 8,
+    "protection" : "private"
+   },
+   {
+    "name" : "main",
+    "kind" : "function",
+    "line" : 3,
+    "char" : 5,
+    "deco" : "FAAyaZi",
+    "parameters" : [
+     {
+      "name" : "argv",
+      "deco" : "AAya"
+     }
+    ],
+    "endline" : 8,
+    "endchar" : 1
+   }
+  ]
+ }
+]

@@ -1,0 +1,11 @@
+<DProject>
+ <ProjectGuid>0249d716-5dcb-40d7-8685-c4f97eb2fe12</ProjectGuid>
+ <Config name="Debug">
+  <!-- default to defaults -->
+ </Config>
+ <Config name="Release">
+  </Config>
+ <Folder name="DSandbox">
+  <File path="main.d" />
+ </Folder>
+</DProject>
