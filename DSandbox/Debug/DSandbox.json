@@ -11,9 +11,32 @@
     "protection" : "private"
    },
    {
+    "name" : "std.math",
+    "kind" : "import",
+    "line" : 2,
+    "char" : 8,
+    "protection" : "private"
+   },
+   {
+    "name" : "magicNumber",
+    "kind" : "variable",
+    "line" : 4,
+    "char" : 5,
+    "deco" : "i",
+    "init" : "42"
+   },
+   {
+    "name" : "password",
+    "kind" : "variable",
+    "line" : 5,
+    "char" : 8,
+    "deco" : "Aya",
+    "init" : "\"seasme\""
+   },
+   {
     "name" : "main",
     "kind" : "function",
-    "line" : 3,
+    "line" : 7,
     "char" : 5,
     "deco" : "FAAyaZi",
     "parameters" : [
@@ -22,7 +45,25 @@
       "deco" : "AAya"
      }
     ],
-    "endline" : 8,
+    "endline" : 26,
+    "endchar" : 1
+   },
+   {
+    "name" : "initValues",
+    "kind" : "function",
+    "line" : 28,
+    "char" : 6,
+    "deco" : "FZv",
+    "endline" : 31,
+    "endchar" : 1
+   },
+   {
+    "name" : "stringStuff",
+    "kind" : "function",
+    "line" : 33,
+    "char" : 6,
+    "deco" : "FZv",
+    "endline" : 39,
     "endchar" : 1
    }
   ]
